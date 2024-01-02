@@ -1,3 +1,5 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C0C99&random=false&width=435&lines=+Hello%2C+Adventurous+Developer+Here!+;Welcome+to+my+tech+universe!)](https://git.io/typing-svg)
