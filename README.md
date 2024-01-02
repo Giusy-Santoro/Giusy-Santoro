@@ -44,6 +44,9 @@ In my GitHub repository, you can find the exams I took during the course, as wel
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/5e8089f8-c73b-42a0-b194-5796d400d18d" alt="icon">
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/7dd88652-e8d5-4d91-afff-55a82d0e3459" alt="icon"> 
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/35dc4689-e8a3-4607-a3f2-5f69ff2dd725" alt="icon"> 
+     <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/d82e78d1-045f-4941-969d-d7f3da0f73d8" alt="icon"> 
+     <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/c5deda64-43e2-402e-9c9e-43a9d08b3c28" alt="icon"> 
+     <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/3fc54373-babc-4986-a053-da3e6c48eb66" alt="icon"> 
 </div>
 <br>
   <hr>
@@ -56,6 +59,10 @@ In my GitHub repository, you can find the exams I took during the course, as wel
 
 <a href="https://www.linkedin.com/in/giusysantoro-frontend-developer/">
   <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/d581c995-e192-4cfc-9145-681dcfd0e4f8" alt="Linkedin">
+</a>
+
+<a href="mailto:sntgsy@gmail.com">
+  <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/86f5b2ee-7fd3-4a3b-8650-b96beb3da706" alt="Gmail">
 </a>
 </div>
 
