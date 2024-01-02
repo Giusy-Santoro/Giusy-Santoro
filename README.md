@@ -1,6 +1,7 @@
+<div align="center">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 
-<div align="center">
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C0C99&random=false&width=435&lines=+Hello%2C+Adventurous+Developer+Here!+;Welcome+to+my+tech+universe!)](https://git.io/typing-svg)
 <p>
@@ -58,11 +59,11 @@ In my GitHub repository, you can find the exams I took during the course, as wel
 </div>
 
 <div >
-Code, Coffee, and...When I'm not typing furiously, I'm often chasing cats in my free time!😺 
+
 </div>
 <br>
 <br>
- <img src="https://i.giphy.com/BTWVWzYoNyYzm.webp"> 
+ <img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=ecf05e47azsaat63rgwcsk3d7d1dibxw278qvnquya5xl1jf&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 </div>
 
 
