@@ -54,11 +54,11 @@ In my GitHub repository, you can find the exams I took during the course, as wel
 <!-- social-->
   <h3>Let's Connect </h3>
 <a href="https://www.instagram.com/_giusysantoro_/">
-  <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/edeb7541-9ef9-41c7-ba55-53f0d32e4b16" alt="Instagram">
+  <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/2f186f0d-afdb-4aa0-9afa-15dd9497f64b" alt="Instagram">
 </a>
 
 <a href="https://www.linkedin.com/in/giusysantoro-frontend-developer/">
-  <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/d581c995-e192-4cfc-9145-681dcfd0e4f8" alt="Linkedin">
+  <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/28ce525b-72da-43f7-b50d-54e17488a3f9" alt="Linkedin">
 </a>
 
 <a href="mailto:sntgsy@gmail.com">
