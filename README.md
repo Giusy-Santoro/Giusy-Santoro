@@ -50,26 +50,31 @@ In my GitHub repository, you can find the exams I took during the course, as wel
 </div>
 <br>
   <hr>
+  
+  <div>
+  <h3> Main Repository: <a href="https://github.com/Giusy-Santoro/Epicode-Exams">Epicode-Exams</a></h3>  
+    
+:white_check_mark: The repository includes completed exams from different weeks of the course, covering topics such as HTML, CSS, JavaScript, and more.
+
+ :file_folder: Folders are organized by week and topic, making it easy to navigate and find study materials.
+ 
+  :busts_in_silhouette:In some cases, certain weeks might be dedicated to team projects rather than individual exams. You'll find information about these projects within the repository.
+  </div>
+  <hr>
 <div>
 <!-- social-->
   <h3>Let's Connect </h3>
 <a href="https://www.instagram.com/_giusysantoro_/">
   <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/2f186f0d-afdb-4aa0-9afa-15dd9497f64b" alt="Instagram">
 </a>
-
 <a href="https://www.linkedin.com/in/giusysantoro-frontend-developer/">
   <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/28ce525b-72da-43f7-b50d-54e17488a3f9" alt="Linkedin">
 </a>
-
 <a href="mailto:sntgsy@gmail.com">
   <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/86f5b2ee-7fd3-4a3b-8650-b96beb3da706" alt="Gmail">
 </a>
 </div>
 
-<div >
-
-</div>
-<br>
 <br>
  <img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=ecf05e47azsaat63rgwcsk3d7d1dibxw278qvnquya5xl1jf&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 </div>
