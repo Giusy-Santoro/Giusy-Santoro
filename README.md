@@ -42,6 +42,7 @@ In my GitHub repository, you can find the exams I took during the course, as wel
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/7dd88652-e8d5-4d91-afff-55a82d0e3459" alt="icon"> 
 </div>
 <br>
+  <hr>
 <div>
 <!-- social-->
   <h3>Let's Connect </h3>
