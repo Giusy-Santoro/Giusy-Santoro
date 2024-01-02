@@ -55,8 +55,11 @@ In my GitHub repository, you can find the exams I took during the course, as wel
 </div>
 
 <div >
-Code, Coffee, and...When I'm not typing furiously, I'm often chasing cats in my free time!😺
+Code, Coffee, and...When I'm not typing furiously, I'm often chasing cats in my free time!😺 
 </div>
+<br>
+<br>
+ <img src="https://i.giphy.com/BTWVWzYoNyYzm.webp"> 
 </div>
 
 
