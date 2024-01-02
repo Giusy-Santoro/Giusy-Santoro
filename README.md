@@ -43,6 +43,7 @@ In my GitHub repository, you can find the exams I took during the course, as wel
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/1bd43a07-ff91-4b31-8cc0-b01793f61e48" alt="icon">
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/5e8089f8-c73b-42a0-b194-5796d400d18d" alt="icon">
      <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/7dd88652-e8d5-4d91-afff-55a82d0e3459" alt="icon"> 
+     <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/35dc4689-e8a3-4607-a3f2-5f69ff2dd725" alt="icon"> 
 </div>
 <br>
   <hr>
