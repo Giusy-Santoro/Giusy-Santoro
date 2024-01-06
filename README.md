@@ -20,8 +20,11 @@ I'm Giusy Santoro, the creative behind the screen who merges the power of code w
 
 
 <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Descrizione immagine" align="left" width="20%">
-  <p>
+<!--   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Descrizione immagine" align="left" width="20%"> -->
+  <img src="https://github.com/Giusy-Santoro/Giusy-Santoro/assets/148851962/dea35b8e-c8d4-478c-9770-95aaf93be0b6" width="20%"  align="right">
+  
+
+<p>
 I am a student at Epicode, a training program for web front-end developers. I am passionate about technology and photography.
 
 My goal is to become a skilled and creative web front-end developer. I am interested in working at a company that will allow me to use my skills to create innovative and useful products.
